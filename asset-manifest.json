@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://emmaoare.github.io/csb-3lejvw/static/js/main.d8417258.chunk.js",
+    "main.js.map": "https://emmaoare.github.io/csb-3lejvw/static/js/main.d8417258.chunk.js.map",
+    "runtime-main.js": "https://emmaoare.github.io/csb-3lejvw/static/js/runtime-main.c11cb8c1.js",
+    "runtime-main.js.map": "https://emmaoare.github.io/csb-3lejvw/static/js/runtime-main.c11cb8c1.js.map",
+    "static/js/2.be363745.chunk.js": "https://emmaoare.github.io/csb-3lejvw/static/js/2.be363745.chunk.js",
+    "static/js/2.be363745.chunk.js.map": "https://emmaoare.github.io/csb-3lejvw/static/js/2.be363745.chunk.js.map",
+    "index.html": "https://emmaoare.github.io/csb-3lejvw/index.html",
+    "precache-manifest.d7ff8e06de01ed590b4fe5a231663f53.js": "https://emmaoare.github.io/csb-3lejvw/precache-manifest.d7ff8e06de01ed590b4fe5a231663f53.js",
+    "service-worker.js": "https://emmaoare.github.io/csb-3lejvw/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c11cb8c1.js",
+    "static/js/2.be363745.chunk.js",
+    "static/js/main.d8417258.chunk.js"
+  ]
+}
